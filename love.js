@@ -169,7 +169,7 @@
             ctx.moveTo(0, 0);
             ctx.scale(0.75, 0.75);
             ctx.font = "12px 楷体,Verdana";
-	    ctx.fillText(" [亲爱的]         情人节提前祝福你", 23, 60);
+	    ctx.fillText(" [亲爱的]         情人节提前祝福你", 23, 130);
             ctx.restore();
         },
         clear: function() {
